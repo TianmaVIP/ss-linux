@@ -2,5 +2,7 @@
 --------------------------------------------------
 环境是linux,亲测centos6.5可以正常搭建  
 --------------------------------------------------
-https://www.v2ray.com/  
+https://www.v2ray.com/    
 --------------------------------------------------
+https://www.latoooo.com/ke_xue_shang_wang/363.htm Mac 下使用 V2ray    
+https://github.com/Cenmrev/V2RayX/releases  Mac客户端下载  
