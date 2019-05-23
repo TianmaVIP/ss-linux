@@ -4,5 +4,7 @@
 --------------------------------------------------
 https://www.v2ray.com/    
 --------------------------------------------------
-https://www.latoooo.com/ke_xue_shang_wang/363.htm Mac 下使用 V2ray    
+https://www.latoooo.com/ke_xue_shang_wang/363.htm MacOS V2RayX 
+https://laod.cn/tools/macos-v2rayx.html  客户端配置教程
+
 https://github.com/Cenmrev/V2RayX/releases  Mac客户端下载  
